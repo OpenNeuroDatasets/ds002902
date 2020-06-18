@@ -73,9 +73,9 @@
         "K.A. Weber II",
         "K.P. O'Grady",
         "M. Descoteaux",
-        "M. Dostál",
+        "M. Dost\u00e1l",
         "M. Fratini",
-        "M. Keřkovský",
+        "M. Ke\u0159kovsk\u00fd",
         "P. Wyss",
         "S.A. Smith",
         "F. Grussu",
@@ -97,5 +97,5 @@
         "the National Institutes of Health (NIH) through grant R00EB016689 (R.L.B.)",
         "the Instituto Investigaci\u00f3n Carlos III (Spain, PI18/00823). The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH."
     ],
-    "DatasetDOI": "10.18112/openneuro.ds001919.v1.0.7"
+    "DatasetDOI": "10.18112/openneuro.ds002902.v1.0.0"
 }
